@@ -85,6 +85,9 @@ Dependencies
     matplotlib: For plotting calibration curves.
     scipy: For interpolation.
     tkinter: For the graphical user interface.
+    pyscreenshot: For taking screenshots of the contents.
+    pyperclip: For interacting with the clipboard.
+    
 
 License
 This project is open-source under GNU GPL v3.
