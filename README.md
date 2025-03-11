@@ -52,22 +52,19 @@ Calibration File Format
 
 Example (calibration_file.txt):
 
-        # Known Viscosity (Pa · s): 1.0
-        # Fluid Viscosity (Pa · s): 2.0
-        # Target Pressure (kPa): 100
-        # Fluid Name: collagen
+# Known Viscosity (Pa s): 1.0
 
-        Pressure (kPa)	Volume (mL)
-        5	0,0008
-        10	0,006433333333
-        25	0,0164
-        50	0,0281
-        75	0,03696666667
-        100	0,04343333333
-        125	0,04916666667
-        150	0,05486666667
-        175	0,0605
-        200	0,0676
+Pressure (kPa)	Volume (mL)
+5	0,0008
+10	0,006433333333
+25	0,0164
+50	0,0281
+75	0,03696666667
+100	0,04343333333
+125	0,04916666667
+150	0,05486666667
+175	0,0605
+200	0,0676
 
 Example Workflow
 
