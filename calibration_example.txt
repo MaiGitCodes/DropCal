@@ -1,7 +1,4 @@
-# Known Viscosity (Pa · s): 1.0
-# Fluid Viscosity (Pa · s): 2.0
-# Target Pressure (kPa): 100
-# Fluid Name: collagen
+# Known Viscosity (Pa s): 1.0
 
 Pressure (kPa)	Volume (mL)
 5	0,0008
